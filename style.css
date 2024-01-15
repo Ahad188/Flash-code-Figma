@@ -176,7 +176,6 @@ nav ul li {
 /* card section  */
 .card{
      width: 1170px;
-     border: 2px solid red;
      margin: 110px auto;
      display: grid;
      grid-template-columns: repeat(3,1fr);
@@ -186,7 +185,6 @@ nav ul li {
      width: 370px;
      height: 470px;
      position: relative;
-     border: 2px solid black;
      background-image: url('./img/BgImageOP.png');
 
       
